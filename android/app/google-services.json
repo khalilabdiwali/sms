@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259987483251",
+    "project_id": "myfirstapp-d5314",
+    "storage_bucket": "myfirstapp-d5314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259987483251:android:374816af5148cb0c1ed806",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHAHXDbVwnwFO60L4ppEbC65l7M2buro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
